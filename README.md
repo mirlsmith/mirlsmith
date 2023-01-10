@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miriam Smith</h1>
 <h3 align="center">Fullstack/Frontend developer</h3>
 
-- 🔭 I’m currently working on [StayBy (AirBnb clone)](stay-by.onrender.com/)
+- 🔭 I’m currently working on [StayBy (AirBnb clone)]([stay-by.onrender.com/](https://stay-by.onrender.com/))
 
 - 🌱 I’m currently learning **React, Angular, Vue**
 
